@@ -6,7 +6,7 @@
 
     <groupId>io.fabric8</groupId>
     <artifactId>kubernetes-assertions</artifactId>
-    <version>4.0.0</version>
+    <version>4.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Fabric8 Kubernetes :: Assertions</name>
     <description>This library provides a bunch of helpful assertj assertions for working with the kubernetes-api.</description>
