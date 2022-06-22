@@ -234,7 +234,7 @@
         <slf4j-log4j12.version>1.7.25</slf4j-log4j12.version>
         <jansi.version>1.11</jansi.version>
         <fabric8-utils.version>3.0.8</fabric8-utils.version>
-        <kubernetes-client.version>4.9.1</kubernetes-client.version>
+        <kubernetes-client.version>4.11.2</kubernetes-client.version>
     </properties>
 
     <profiles>
